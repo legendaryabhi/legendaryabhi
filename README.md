@@ -1,9 +1,7 @@
 ## Hey, I'm Abhinav 👋  
-Developer • Founder • AI Infrastructure Builder  
+Developer • Founder • AI Infrastructure Builder • Theoretical Physics Researcher😉
 
 I like building **new things** especially in AI, developer tooling, and research-driven systems.
-
----
 
 ### My journey so far
 
@@ -11,8 +9,6 @@ Over the years, I’ve built and experimented across **founder ecosystems, resea
 
 - **OpenResearch Laboratory** at **Necrozma Labs** — Virtual Laboratory using julia language. 
 - **CodeAtoms** — Dev AI tools Markeptlace  
-
----
 
 ### What I’m building now
 
