@@ -10,10 +10,7 @@ I like building **new things** especially in AI, developer tooling, and research
 Over the years, I’ve built and experimented across **founder ecosystems, research labs, and open-source infra**:
 
 - **OpenResearch Laboratory** at **Necrozma Labs** — Virtual Laboratory using julia language. 
-- **CodeAtoms** — Dev tools Markeptlace   
-
-Each project taught me one thing:  
-**tools shape how people think, build, and collaborate**.
+- **CodeAtoms** — Dev AI tools Markeptlace  
 
 ---
 
@@ -21,10 +18,9 @@ Each project taught me one thing:
 
 - **CrewBench** — a desktop UI & control layer for AI coding agents  
   - Multi-agent orchestration  
-  - Observability & guardrails  
-  - Developer-first, local-first execution  
+  - Observability & guardrails   
 
-- **CodeAtoms** — evolving into a space for advanced AI & developer experimentation  
+- **CodeAtoms** — Evolving into a space for advanced AI & developer experimentation  
 ---
 
 ### Tech I work with
