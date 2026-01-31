@@ -8,4 +8,29 @@ I like building **new things** especially in AI, developer tooling, and research
 - Languages: TypeScript, Python, JavaScript  
 - Systems: Electron, Node.js, local-first architectures  
 - AI: Multi-agent systems, CLI agents, model orchestration  
-- Workflow: Git, open-source, research → product loops  
+- Workflow: Git, open-source, research → product loops
+
+### My Works
+
+#### Proudly Created
+- [CrewBench](https://github.com/CrewBench/CrewBench) - An open-source, enhanced version of Claude Cowork built specifically for programmers.
+- [CodeAtoms](https://github.com/CodeAtoms-org/CodeAtoms) - AI Agents Marketplace
+
+#### Created for Community
+- [Trending-in-Artificial-Intelligence](https://github.com/legendaryabhi/Trending-in-Artificial-Intelligence) - This repository tracks what’s trending, why it matters, and where it’s happening in the AI ecosystem.
+- [Building-from-Scratch](https://github.com/legendaryabhi/building-from-scratch) - How AI systems are built from core foundations to models, AI agents, AI IDEs, and emerging trends.
+- [Zero-to-Production](https://github.com/legendaryabhi/zero-to-production) - A curated, opinionated collection of resources to make anything production-grade.
+- [Dev Tools Marketing Resources](https://github.com/CodeAtoms-org/DevToolsMarketing) - A curated collection of proven SEO, content, and growth resources used by successful developer tools.
+
+#### Things I have took from 0 to 1
+- [ConquerortheCrown Organization](https://www.conquerorthecrown.com) - ConquerortheCrown gives resources and grants to people who want to do something impactful for the world.
+- [Necrozma Labs Company (Dep - March 2026)](https://www.necrozmalabs.com) - Solving World`s biggest problems with Technology
+- [Open Research Laboratory (Dep - March 2026)](https://openresearchlaboratory.necrozmalabs.com) - Virtual Laboratory for Researchers
+- [BuildY (Dep - March 2026)](https://buildy.necrozmalabs.com) - Collaboration Platfrom for theoretical Researchers
+- [SmilingRobo Inc (Dep - March 2025)](https://www.smilingrobo.com) - Opensource Robotics Platform with opensource tools and resources.
+- [Genment](#) - A gen ai mentor for people including top billionaires and influencers.
+- [YourShield Inc](#) - A app to tackle phone based cybercrimes in realtime
+- [Apps Suit](#) - A collection of 9 Android Apps
+- [3d preferrable Falppy bird](#) - A 3d flappy bird game for browser.
+  
+**I don't remember more 😌**
