@@ -17,6 +17,7 @@ I like building **new things** especially in AI, developer tooling, and research
 - [CodeAtoms](https://github.com/CodeAtoms-org/CodeAtoms) - AI Agents Marketplace.
 
 #### Created for Community
+- [OpenClaw Security Scan](https://github.com/legendaryabhi/openclaw-security-scan) - A CLI security scanner for OpenClaw AI agents that finds risky configurations and helps lock down agent runtimes before production.
 - [Trending-in-Artificial-Intelligence](https://github.com/legendaryabhi/Trending-in-Artificial-Intelligence) - This repository tracks what’s trending, why it matters, and where it’s happening in the AI ecosystem.
 - [Building-from-Scratch](https://github.com/legendaryabhi/building-from-scratch) - How AI systems are built from core foundations to models, AI agents, AI IDEs, and emerging trends.
 - [Zero-to-Production](https://github.com/legendaryabhi/zero-to-production) - A curated, opinionated collection of resources to make anything production-grade.
