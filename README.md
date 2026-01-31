@@ -27,7 +27,7 @@ I like building **new things** especially in AI, developer tooling, and research
 - [Necrozma Labs Company (Dep - March 2026)](https://www.necrozmalabs.com) - Solving World`s biggest problems with Technology.
 - [Open Research Laboratory (Dep - March 2026)](https://openresearchlaboratory.necrozmalabs.com) - Virtual Laboratory for Researchers.
 - [BuildY (Dep - March 2026)](https://buildy.necrozmalabs.com) - Collaboration Platfrom for theoretical Researchers.
-- [SmilingRobo Inc (Dep - March 2025)](https://www.smilingrobo.com) - Opensource Robotics Platform with opensource tools and resources.
+- [SmilingRobo Inc (Dep - July 2025)](https://www.smilingrobo.com) - Opensource Robotics Platform with opensource tools and resources.
 - [Genment](#) - A gen ai mentor for people including top billionaires and influencers.
 - [YourShield Inc](#) - A app to tackle phone based cybercrimes in realtime.
 - [Apps Suit](#) - A collection of 9 Android Apps.
