@@ -1,4 +1,6 @@
-## Hey, I'm Abhinav 👋  
+![banner](banner.png)
+
+
 Vibe Developer • Founder • AI Infrastructure Builder
 
 I like building **new things** especially in AI, developer tooling, and research-driven systems.
