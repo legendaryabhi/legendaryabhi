@@ -1,6 +1,6 @@
 ### Hi 👋, I am Abhinav Sharma
 
-Vibe Developer • Founder • AI Infrastructure Builder
+Vibe Developer • Founder
 
 I like building **new things** especially in AI, developer tooling, and research-driven systems.
 
@@ -8,7 +8,7 @@ I like building **new things** especially in AI, developer tooling, and research
 
 - Languages: TypeScript, Python, JavaScript  
 - Systems: Electron, Node.js, local-first architectures  
-- AI: Multi-agent systems, CLI agents, model orchestration  
+- AI: Multi-agent systems, CLI agents, AI orchestration  
 - Workflow: Git, open-source, research → product loops
 
 ### My Works
