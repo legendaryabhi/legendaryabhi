@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legendaryabhi/legendaryabhi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legendaryabhi/legendaryabhi/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/legendaryabhi/legendaryabhi/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### Hi 👋, I am Abhinav Sharma
 
 Vibe Developer • Founder • AI Infrastructure Builder
@@ -47,3 +41,9 @@ I like building **new things** especially in AI, developer tooling, and research
 - **3d preferrable Falppy bird** - A 3d flappy bird game for browser.
 
 **I don't remember more 😌**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legendaryabhi/legendaryabhi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legendaryabhi/legendaryabhi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/legendaryabhi/legendaryabhi/output/github-contribution-grid-snake.svg">
+</picture>
