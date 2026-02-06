@@ -16,7 +16,7 @@ I like building **new things** especially in AI, developer tooling, and research
 #### Proudly Created
 - [CrewBench](https://github.com/CrewBench/CrewBench) - An open-source, enhanced version of Claude Cowork built specifically for programmers.
 - [CodeAtoms](https://github.com/CodeAtoms-org/CodeAtoms) - AI Agents Marketplace.
-- [Agent-skills-hub](https://github.com/legendaryabhi/agent-skills-hub) - Skills hub for all AI Agents.
+- [Agent-Skills-Hub](https://github.com/legendaryabhi/agent-skills-hub) - Install any Skill into any AI Agent.
 
 #### Created for Community
 - [OpenClaw Security Scan](https://github.com/legendaryabhi/openclaw-security-scan) - A CLI security scanner for OpenClaw AI agents that finds risky configurations and helps lock down agent runtimes before production.
