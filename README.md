@@ -1,6 +1,6 @@
 ### Hi 👋, I am Abhinav Sharma
 
-Vibe Developer • Founder
+Developer • Founder
 
 I like building **new things** especially in AI, developer tooling, and research-driven systems.
 
