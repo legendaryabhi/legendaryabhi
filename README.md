@@ -39,7 +39,7 @@ I like building **new things** especially in AI, developer tooling, and research
 #### Lost Code 👨🏻‍💻
 - **Imgination-to-Real** - A library to train robots in virtual environment via gen ai videos in Nvidia Omniverse.
 - **Apps Suit** - A collection of 9 Android Apps.
-- **3d preferrable Falppy bird** - A 3d flappy bird game for browser.
+- **3d preferrable Flappy bird** - A 3d flappy bird game for browser.
 
 **I don't remember more 😌**
 
